@@ -39,8 +39,8 @@ export function getAppVersionText() {
 }
 
 if(App.isMainDomain) { // use Webogram credentials then
-  App.id = 2496;
-  App.hash = '8da85b0d5bfe62527e5b244c209159c3';
+  App.id = 39150861;
+  App.hash = '6c8195ef92a96ecbf3ba24b74d72a2a0';
   App.pushServerKey = 'BHEbKOXt-GD8MCTTYiAYT3I5R4MB0epIE7Tbbymj1uR0xJRE_7m27eXTVAC_P19TeZnO9413lRz-0oZ87JRPKPM';
 }
 
